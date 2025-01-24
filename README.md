@@ -7,11 +7,6 @@
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/ayushm478/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
-    **3.** Create a [P & L report by Fiscal Year]
-
-    **4.** Create a [P & L report by Markets]
-
-    **5.** Create a [P & L report by Months]
   
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
